@@ -1,0 +1,17 @@
+../*
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.csv
+*.xlsx
+*.zip
+*.h5
+*.pth
+*.pyth
+.ipynb_checkpoints/
+/results/
+/configs/OCTDiff_Practice.yaml
+/model_new/
+/model_backup/
